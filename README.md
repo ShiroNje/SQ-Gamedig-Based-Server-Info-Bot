@@ -1,0 +1,1 @@
+# SQ-Gamedig-Based-Server-Info-Bot
